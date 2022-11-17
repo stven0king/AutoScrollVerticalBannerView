@@ -104,7 +104,7 @@ public class SampleAdapter01 extends BaseBannerAdapter<Model01> {
     public int getScrollBannerCount() {
         return 2;
     }
-		//设置一次需要向上滚动的item个数
+    //设置一次需要向上滚动的item个数
     @Override
     public int getShowBannerCount() {
         return 2;
